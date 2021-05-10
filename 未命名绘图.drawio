@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T04:23:39.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.6.3" etag="OBq8s72-oKvjU0dUuJ6y" type="github"><diagram id="H76vDgXofInhfUhEfbmT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-10T05:24:16.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="XTjAywPmCW5NMXuXQo52" version="14.6.3" type="github">
+  <diagram id="H76vDgXofInhfUhEfbmT" name="第 1 页">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rwgS_m5zZUWEBRaqtLQ-1" target="2rwgS_m5zZUWEBRaqtLQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-1" value="中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="2rwgS_m5zZUWEBRaqtLQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="2rwgS_m5zZUWEBRaqtLQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="420" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rwgS_m5zZUWEBRaqtLQ-4" target="2rwgS_m5zZUWEBRaqtLQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-4" value="目前appId区分中台级别应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-6" value="Saas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rwgS_m5zZUWEBRaqtLQ-8" target="2rwgS_m5zZUWEBRaqtLQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-8" value="同策好房" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rwgS_m5zZUWEBRaqtLQ-9" target="2rwgS_m5zZUWEBRaqtLQ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="380" />
+              <mxPoint x="790" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rwgS_m5zZUWEBRaqtLQ-9" target="2rwgS_m5zZUWEBRaqtLQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-9" value="代理云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-11" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-12" value="extras(区分公司级别应用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-14" value="公司1（25）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-17" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-21" value="非Saas级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="150" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-22" value="Saas级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="240" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-24" value="&lt;h1&gt;Saas&lt;/h1&gt;&lt;span style=&quot;text-align: center&quot;&gt;目前的方案是要在数据表中增加字段（假设为isSaas（Saas应用标识） 和org_id&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;（数据归属公司id）&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;）&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;isSaas存储&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;Saas在中台对应的appId，Saas子应用有对应的Saas子应用表维护，存储的是Saas级对应的子应用id，例如Saas在中台对应的appId为20000,&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;Saas子应用表中，&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;同策好房对应的&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;SaasId&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;为20150，代理云为20151&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;span style=&quot;text-align: center&quot;&gt;那么公司1获取某一类型Saas级数据的数据集范围为isSaas为20000, org_id为（25），如果只想看某一类型Saas级的同策好房的数据集再加上SaasId的条件就行&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="190" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2rwgS_m5zZUWEBRaqtLQ-25" value="公司2（26）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
