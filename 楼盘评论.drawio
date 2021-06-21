@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T05:31:58.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="8BGMLaZv5I45dXI-ymew" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T05:41:03.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pbFsWz84evbRfBqEPgBF" version="14.8.0" type="github">
   <diagram id="0LVFIWE_cZ-BKO6vqAE3" name="楼盘评论">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6tDgeE5sxYvlEyEiNsdh-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="110" y="60" width="620" height="620" as="geometry" />
+          <mxGeometry x="110" y="60" width="700" height="700" as="geometry" />
         </mxCell>
         <mxCell id="6tDgeE5sxYvlEyEiNsdh-5" value="评论身份" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="110" width="200" height="120" as="geometry" />
@@ -72,6 +72,33 @@
         </mxCell>
         <mxCell id="6tDgeE5sxYvlEyEiNsdh-51" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="340" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-3" value="属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="405" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-4" value="点赞数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-5" value="评论数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-6" value="评论层级关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-7" value="评论关联标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-8" value="评论发起者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="481" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-9" value="评论参与者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="481" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3g9fmIuKLqKl-8z87z6e-10" value="评论审核人（如需审核）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="481" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
