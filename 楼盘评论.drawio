@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T06:02:26.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="RsiLWiROTGIVk3qDl_hu" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T06:11:27.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="xBLdgBmvPop0oW3kfBvA" version="14.8.0" type="github" pages="2">
   <diagram id="0LVFIWE_cZ-BKO6vqAE3" name="楼盘评论">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,6 +129,35 @@
         </mxCell>
         <mxCell id="dlRp0o0y4FPuxKgbH7tX-10" value="评论标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="519" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eEguXz9jb68DzzD_3qnI-1" value="关联楼盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="559" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h8phuTnGGjhTJLSUU3Ok" name="楼盘论坛">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="f5QDGr0gRxw0-2oQ4yCn-0" />
+        <mxCell id="f5QDGr0gRxw0-2oQ4yCn-1" parent="f5QDGr0gRxw0-2oQ4yCn-0" />
+        <mxCell id="f5QDGr0gRxw0-2oQ4yCn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f5QDGr0gRxw0-2oQ4yCn-1">
+          <mxGeometry x="100" y="50" width="650" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="f5QDGr0gRxw0-2oQ4yCn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="f5QDGr0gRxw0-2oQ4yCn-1">
+          <mxGeometry x="135" y="130" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wwPZe-RRV93u5RuGWnNC-0" value="主题板块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="f5QDGr0gRxw0-2oQ4yCn-1">
+          <mxGeometry x="135" y="67" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wwPZe-RRV93u5RuGWnNC-1" value="帖子数量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="f5QDGr0gRxw0-2oQ4yCn-1">
+          <mxGeometry x="140" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wwPZe-RRV93u5RuGWnNC-2" value="主题名" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="f5QDGr0gRxw0-2oQ4yCn-1">
+          <mxGeometry x="220" y="140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wwPZe-RRV93u5RuGWnNC-3" value="楼盘论坛" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="f5QDGr0gRxw0-2oQ4yCn-1">
+          <mxGeometry x="374" y="67" width="86" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
