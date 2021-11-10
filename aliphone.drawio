@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T07:23:53.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="2Q0PTNCPlCVBBal_vCzl" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T07:34:01.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="SqJA4AN-iyBjZthCaluq" version="15.7.1" type="github">
   <diagram id="XpzasUsZ_Ze9CDfj-YqQ" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kYjdJ1nhGcw9_25Dbs9y-2" value="阿里隐私号" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=1;horizontalStack=1;fontFamily=Verdana;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;flipV=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="70" width="840" height="1260" as="geometry" />
+          <mxGeometry x="230" y="20" width="840" height="1260" as="geometry" />
         </mxCell>
         <mxCell id="kYjdJ1nhGcw9_25Dbs9y-3" value="接入方" style="swimlane;startSize=20;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-2">
           <mxGeometry y="20" width="270" height="1240" as="geometry" />
@@ -25,14 +25,11 @@
         <mxCell id="kYjdJ1nhGcw9_25Dbs9y-21" value="7.开始使用隐私号" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-3">
           <mxGeometry x="25" y="530" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-24" value="10.接收通话记录回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-3">
-          <mxGeometry x="25" y="670" width="215" height="82.5" as="geometry" />
+        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-27" value="12.更新通话记录回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-3">
+          <mxGeometry x="25" y="810" width="215" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-27" value="13.更新通话记录回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-3">
-          <mxGeometry x="30" y="860" width="215" height="82.5" as="geometry" />
-        </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-32" value="16.接收通话录音回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-3">
-          <mxGeometry x="25" y="1090" width="215" height="82.5" as="geometry" />
+        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-32" value="14.接收通话录音回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-3">
+          <mxGeometry x="27.5" y="1000" width="215" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="kYjdJ1nhGcw9_25Dbs9y-4" value="中台" style="swimlane;startSize=20;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-2">
           <mxGeometry x="270" y="20" width="270" height="1240" as="geometry" />
@@ -43,17 +40,17 @@
         <mxCell id="kYjdJ1nhGcw9_25Dbs9y-20" value="2.开通接入权限，提供账号、接入使用的相关信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
           <mxGeometry x="30" y="70" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-22" value="9.监听呼叫发起回调，数据入库，调用接入方配置的通话记录回调地址" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
+        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-22" value="9.监听呼叫发起回调，数据入库" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
           <mxGeometry x="27.5" y="600" width="215" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-26" value="12.监听阿里通话结束回调，数据入库，重新调用接入方的通话记录回调地址，通知通话已结束" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
-          <mxGeometry x="27.5" y="790" width="215" height="82.5" as="geometry" />
+        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-26" value="11.监听阿里通话结束回调，数据入库，调用接入方的通话记录回调地址，通知通话已结束" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
+          <mxGeometry x="27.5" y="730" width="215" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-29" value="12.上传阿里录音文件至阿里云存储" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
-          <mxGeometry x="27.5" y="880" width="215" height="82.5" as="geometry" />
+        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-29" value="11.上传阿里录音文件至阿里云存储" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
+          <mxGeometry x="27.5" y="820" width="215" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-31" value="15.监听录音文件回调信息，替换通话记录中的录音文件地址，调用接入方的录音文件回调地址" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
-          <mxGeometry x="27.5" y="1020" width="215" height="82.5" as="geometry" />
+        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-31" value="13.监听录音文件回调信息，替换通话记录中的录音文件地址，调用接入方的录音文件回调地址" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-4">
+          <mxGeometry x="27.5" y="970" width="215" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="kYjdJ1nhGcw9_25Dbs9y-5" value="阿里" style="swimlane;startSize=20;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-2">
           <mxGeometry x="540" y="20" width="300" height="1240" as="geometry" />
@@ -61,11 +58,11 @@
         <mxCell id="kYjdJ1nhGcw9_25Dbs9y-23" value="8.隐私号功能触发，生成呼叫发起回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-5">
           <mxGeometry x="57" y="540" width="215" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-25" value="11.通话结束，生成通话结束回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-5">
+        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-25" value="10.通话结束，生成通话结束回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-5">
           <mxGeometry x="57" y="690" width="215" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-30" value="14.保存文件，产生文件上传回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-5">
-          <mxGeometry x="57" y="970" width="215" height="82.5" as="geometry" />
+        <mxCell id="kYjdJ1nhGcw9_25Dbs9y-30" value="12.保存文件，产生文件上传回调信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;verticalAlign=middle;" vertex="1" parent="kYjdJ1nhGcw9_25Dbs9y-5">
+          <mxGeometry x="57" y="920" width="215" height="82.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
